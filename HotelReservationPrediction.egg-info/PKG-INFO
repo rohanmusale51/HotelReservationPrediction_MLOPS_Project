@@ -11,5 +11,7 @@ Requires-Dist: imbalanced-learn
 Requires-Dist: lightgbm
 Requires-Dist: mlflow
 Requires-Dist: flask
+Requires-Dist: seaborn
+Requires-Dist: matplotlib
 Dynamic: author
 Dynamic: requires-dist
